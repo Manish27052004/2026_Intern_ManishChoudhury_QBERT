@@ -10,13 +10,7 @@ This repository contains my internship work on the implementation and evaluation
 * BERT-Base
 * DistilBERT
 
-This repository contains my internship work on the implementation and evaluation of QBERT quantization on multiple Transformer-based language models:
 
-* TinyBERT
-* MobileBERT
-* ALBERT
-* BERT-Base
-* DistilBERT
 
 ---
 
